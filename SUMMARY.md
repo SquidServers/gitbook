@@ -5,7 +5,6 @@
 ## Get Started
 
 * [Download](get-started/download.md)
-* [Page](get-started/page.md)
 
 ## Common Errors
 
