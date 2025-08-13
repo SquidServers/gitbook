@@ -9,4 +9,4 @@
 
 ## Common Errors
 
-* [Page 1](common-errors/page-1.md)
+* [Modded Server Failed to Launch](common-errors/modded-server-failed-to-launch.md)
