@@ -1,6 +1,6 @@
 ---
 description: How to resolve modpack always failing or infinitely stuck on server launching
-icon: scroll
+icon: scroll-old
 ---
 
 # Modded Server Failed to Launch
