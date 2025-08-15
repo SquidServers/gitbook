@@ -11,3 +11,4 @@
 ## Common Errors
 
 * [Modded Server Failed to Launch](common-errors/modded-server-failed-to-launch.md)
+* [Incompatible Java Version](common-errors/incompatible-java-version.md)
