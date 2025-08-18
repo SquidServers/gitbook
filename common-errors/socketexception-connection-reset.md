@@ -2,7 +2,10 @@
 description: java.net.SocketException Connection reset error
 icon: java
 ---
-Author: Yunus Emre
+
+# java.net.SocketException: Connection Reset
+
+_Author: Yunus Emre_
 
 1. Open **Task Manager**
 2. Find **SquidServers** in the list

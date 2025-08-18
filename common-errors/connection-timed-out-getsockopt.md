@@ -1,8 +1,11 @@
 ---
 description: Connection Timed Out (getsockopt) error
-icon: java
+icon: clock
 ---
-*Author: Yunus Emre*
+
+# Connection Timed Out (getsockopt)
+
+_Author: Yunus Emre_
 
 1. Ensure your internet connection is stable.
 2. Use a **VPN** to bypass the timeout issue.

@@ -1,8 +1,11 @@
 ---
 description: How can I let cracked (non-premium) users join my server?
-icon: java
+icon: play
 ---
-*Author: Yunus Emre*
+
+# Allow Cracked Users to Join
+
+_Author: Yunus Emre_
 
 1. Go to your server **settings**.
 2. Find the **`online-mode`** option.

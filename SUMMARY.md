@@ -8,6 +8,10 @@
   * [Downloading on Mac](get-started/download/downloading-on-mac.md)
   * [Downloading on Windows](get-started/download/downloading-on-windows.md)
 
+## Tutorials
+
+* [🌊 Creating a Crossplay Server (GeyserMC Server)](tutorials/creating-a-crossplay-server-geysermc-server.md)
+
 ## Common Errors
 
 * [Allow Cracked Users to Join](common-errors/allow-cracked-users-to-join.md)
