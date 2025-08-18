@@ -6,6 +6,6 @@ Instructions on downloading: [download](get-started/download/ "mention")
 
 Troubleshooting Common Errors: [Broken link](broken-reference "mention")
 
-Tutorials:&#x20;
+Tutorials: [Broken link](broken-reference "mention")
 
 For opening an issue please join our discord: [discord.gg/squidservers](https://discord.com/invite/squidservers)
