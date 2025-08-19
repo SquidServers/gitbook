@@ -11,10 +11,11 @@
 ## Tutorials
 
 * [🌊 Creating a Crossplay Server (GeyserMC Server)](tutorials/creating-a-crossplay-server-geysermc-server.md)
+* [Allow Cracked Users to Join](tutorials/allow-cracked-users-to-join.md)
+* [🌐 Using a Custom Domain](tutorials/using-a-custom-domain.md)
 
 ## Common Errors
 
-* [Allow Cracked Users to Join](common-errors/allow-cracked-users-to-join.md)
 * [Connection Timed Out (getsockopt)](common-errors/connection-timed-out-getsockopt.md)
 * [java.net.SocketException: Connection Reset](common-errors/socketexception-connection-reset.md)
 * [Safety Warning](common-errors/safety-warning.md)

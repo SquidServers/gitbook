@@ -23,7 +23,7 @@ icon: java
 
 ## Paper
 
-<div align="center"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Excerpt from <a href="https://docs.papermc.io/paper/getting-started/">Paper's Docs</a></p></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Excerpt from <a href="https://docs.papermc.io/paper/getting-started/">Paper's Docs</a></p></figcaption></figure></div>
 
 ## Fabric
 
