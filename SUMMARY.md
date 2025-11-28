@@ -12,6 +12,7 @@
 
 - [🌊 Creating a Crossplay Server (GeyserMC Server)](tutorials/creating-a-crossplay-server-geysermc-server.md)
 - [Allow Non-Premium Users to Join](/tutorials/allow-non-premium-users-to-join.md)
+- [🎤 How to Use Voice Chat Mod in SquidServer](/tutorials/voice-chat-tutorial.md)
 
 ## Common Errors
 
