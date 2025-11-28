@@ -29,7 +29,8 @@ _Author: Yunus Emre_
 - Start your Minecraft server normally.
 - Run both the Java tunnel and the Bedrock tunnel at the same time.
 - If configured correctly, the console will show something like:
-  `[VoiceChatServerThread/INFO]: Server started at port XXXX`
+
+> `[VoiceChatServerThread/INFO]: Server started at port XXXX`
 
 ## 5. Connect & Test Voice Chat
 
