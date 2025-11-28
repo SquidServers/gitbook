@@ -1,9 +1,9 @@
 ---
-description: How can I let cracked (non-premium) users join my server?
+description: How can I let non-premium users join my server?
 icon: play
 ---
 
-# Allow Cracked Users to Join
+# Allow Non-Premium Users to Join
 
 _Author: Yunus Emre_
 
