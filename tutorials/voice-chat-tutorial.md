@@ -11,10 +11,11 @@ _Author: Yunus Emre_
 
 ## 2. Create Tunnels with SquidServer
 
-- Open the SquidServer dashboard and create two tunnels:
-  1. Java tunnel → for the Minecraft game server.
-  2. Bedrock tunnel → for voice chat traffic.
-- Copy down the domain and port assigned to each tunnel.
+- Open the SquidServer dashboard and create a bedrock tunnel for voice chat traffic
+- Copy down the domain and port assigned
+- Update the local port to match the port of the public address (in this photo example it's 16686)
+
+<div align="center"><figure><img src="../.gitbook/assets/voice-chat-photo-1.png" alt=""><figcaption><p>Make sure the underlined values are equal</p></figcaption></figure></div>
 
 ## 3. Configure Voice Chat Properties
 
